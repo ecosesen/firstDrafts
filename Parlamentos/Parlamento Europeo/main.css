@@ -1,0 +1,46 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#content {
+    display: flex;
+    justify-content: center;
+}
+
+.party td {
+    padding: 30px;
+}
+
+.legend td{
+    padding: 0px;
+    height: 5px;
+}
+
+.legendGUE {
+    background-color: #c9044b;
+}
+
+.legendGREENS {
+    background-color: #70aa11
+}
+
+.legendRENEW {
+    background-color: #ffff00
+}
+
+.legendSD {
+    background-color: #ff0000
+}
+
+.legendEPP {
+    background-color: #01dfd7
+}
+
+.legendID {
+    background-color: #271085
+}
+
+.legendECR {
+    background-color: #1eb3a4
+}

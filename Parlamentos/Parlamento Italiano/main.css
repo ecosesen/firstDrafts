@@ -1,0 +1,58 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#content {
+    display: flex;
+    justify-content: center;
+}
+
+.party td {
+    padding: 30px;
+}
+
+.legend td{
+    padding: 0px;
+    height: 5px;
+}
+
+.legendFI {
+    background-color: #00ccff;
+}
+
+.legendLega {
+    background-color: #0000cc
+}
+
+.legendMaie {
+    background-color: #69c936;
+}
+
+.legendFdi {
+    background-color: #0033cc
+}
+
+.legendPd {
+    background-color: #ff0000
+}
+
+.legendM5E {
+    background-color: #ffff00
+}
+
+.legendAVS {
+    background-color: #cc0000
+}
+
+.legendA-iv {
+    background-color: #cf212a
+}
+
+.legendMixto {
+    background-color: #c9369b
+}
+
+
+
+
